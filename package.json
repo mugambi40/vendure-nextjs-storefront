@@ -1,12 +1,7 @@
 {
-    "name": "vendure-nextjs-storefront",
+    "name": "espace-storefront",
     "version": "0.0.1",
     "private": true,
-    "author": {
-        "email": "aexol@aexol.com",
-        "name": "aexol",
-        "url": "https://aexol.com"
-    },
     "scripts": {
         "dev": "next dev -p 3001",
         "build": "next build",
